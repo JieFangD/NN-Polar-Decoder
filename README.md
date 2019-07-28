@@ -2,7 +2,7 @@
 
 We propose a low-complexity recurrent neural network (RNN) polar decoder with codebook-based weight quantization. Hope this code is useful for peer researchers. If you use this code or parts of it in your research, please kindly cite our paper:
 
-- **Author**: Chieh-Fang Teng, Chen-Hsi (Derek) Wu, Andrew Kuan-Shiuan Ho, and An-Yeu (Andy) Wu
+- **Author:** Chieh-Fang Teng, Chen-Hsi (Derek) Wu, Andrew Kuan-Shiuan Ho, and An-Yeu (Andy) Wu
 - **Related publications:** Chieh-Fang Teng, Chen-Hsi (Derek) Wu, Andrew Kuan-Shiuan Ho, and An-Yeu (Andy) Wu, "[Low-complexity Recurrent Neural Network-based Polar Decoder with Weight Quantization Mechanism](https://ieeexplore.ieee.org/abstract/document/8683778)," *accepted by 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP).*
 
 ---
