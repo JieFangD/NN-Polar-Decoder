@@ -2,8 +2,9 @@
 
 We propose a low-complexity recurrent neural network (RNN) polar decoder with codebook-based weight quantization. Hope this code is useful for peer researchers. If you use this code or parts of it in your research, please kindly cite our paper:
 
-- **Author:** Chieh-Fang Teng, Chen-Hsi (Derek) Wu, Andrew Kuan-Shiuan Ho, and An-Yeu (Andy) Wu
-- **Related publications:** Chieh-Fang Teng, Chen-Hsi (Derek) Wu, Andrew Kuan-Shiuan Ho, and An-Yeu (Andy) Wu, "[Low-complexity Recurrent Neural Network-based Polar Decoder with Weight Quantization Mechanism](https://ieeexplore.ieee.org/abstract/document/8683778)," *accepted by 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP).*
+- **Related publication 1:** Chieh-Fang Teng, Chen-Hsi (Derek) Wu, Andrew Kuan-Shiuan Ho, and An-Yeu (Andy) Wu, "[Low-complexity Recurrent Neural Network-based Polar Decoder with Weight Quantization Mechanism](https://ieeexplore.ieee.org/abstract/document/8683778)," *published in 2019 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP).*
+- **Related publication 2:** Chieh-Fang Teng, Chun-Hsiang Chen, and An-Yeu (Andy) Wu, "[An Ultra-Low Latency 7.8–13.6 pJ/b Reconfigurable Neural Network-Assisted Polar Decoder with Multi-Code Length Support](https://ieeexplore.ieee.org/document/9163022)," *published in 2020 IEEE Symposium on VLSI Circuits (SOVC).*
+- **Related publication 3:** Chieh-Fang Teng and An-Yeu (Andy) Wu, "[A 7.8–13.6 pJ/b Ultra-Low Latency and Reconfigurable Neural Network-Assisted Polar Decoder With Multi-Code Length Support](https://ieeexplore.ieee.org/document/9366300)," *published in 2021 IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I).*
 
 ---
 
